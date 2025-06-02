@@ -4,17 +4,14 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/tasneem-mohamed-714b5a2b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
+  <a href="https://codeforces.com/profile/tasneem357mohamed" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="facebook.com/tasneem.mohamed.635109" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
