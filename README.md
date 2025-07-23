@@ -8,10 +8,10 @@
 
 ## 🌐 Connect With Me
 [![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/tasneem357mohamed)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/tasneem.mohamed.635109)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tasneem.mohamed.635109)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tasneemmohammed0082)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasneem357mohamed@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-mohamed714b5a2b1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-mohamed-714b5a2b1/)  
 
 ---
 
