@@ -1,5 +1,5 @@
 
-# 👩‍💻 Tasneem Mohamed – Developer Portfolio
+# 👩‍💻 Tasneem Mohamed
 
 🎓 **Senior Student**, Faculty of Computer and Information Sciences, Ain Shams University  
 🎯 Passionate about **Front-End Development**, UI/UX, and clean, scalable code
@@ -7,10 +7,11 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasneem-mohamed-714b5a2b1/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasneem.mohamed@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/tasneem.mohamed.635109)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tasneemmohammed0082)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasneem357mohamed@gmail.com)
 
 ---
 
@@ -38,6 +39,10 @@
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala)
 ![Tiny](https://img.shields.io/badge/-Tiny-black?style=for-the-badge)
 
+### 🚀 Deployment Tools
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Ngrok](https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com/)
+
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
@@ -45,14 +50,14 @@
 
 ## 📊 Language Usage Dashboard
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem357Mohamed&layout=compact&theme=default)
 
 ---
 
 ## 📈 GitHub Activity Dashboard
 
-![Tasneem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=default)
+![Tasneem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasneem357Mohamed&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tasneem357Mohamed&theme=default)
 
 ---
 
@@ -68,15 +73,6 @@
 - Data-Driven Applications
 - Scalable Architecture & Maintainable Code
 - Open Source Collaboration
-
----
-
-## 📫 Contact Me
-
-📧 tasneem.mohamed@example.com  
-🌐 [Portfolio](https://tasneem.dev)  
-💼 [LinkedIn](https://linkedin.com)  
-💻 [GitHub](https://github.com/yourusername)
 
 ---
 
