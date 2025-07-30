@@ -45,6 +45,8 @@
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql)
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-336791?style=for-the-badge&logo=postgresql)
 
 ---
 
